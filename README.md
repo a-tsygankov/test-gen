@@ -1,4 +1,4 @@
-# test-gen README
+# VSCode extension for unit test generation using AI
 
 This is the README for your extension "test-gen". After writing up a brief description, we recommend including the following sections.
 
